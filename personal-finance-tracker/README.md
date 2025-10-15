@@ -318,21 +318,3 @@ REACT_APP_API_URL=https://your-api-domain.com/api
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support, email support@personalfinancetracker.com or create an issue in the GitHub repository.
-
-## Changelog
-
-### Version 1.0.0
-- Initial release
-- Basic expense tracking
-- Savings goals functionality
-- Dashboard and reports
-- User authentication
-- Responsive design
